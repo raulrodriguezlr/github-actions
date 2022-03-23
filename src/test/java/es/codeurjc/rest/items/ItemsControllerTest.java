@@ -25,7 +25,9 @@ public class ItemsControllerTest {
 		
 		// THEN
 
+
 		assertThat(postedItem.getDescription()).isEqualTo("Tomate");
+
 	}
 
 }
